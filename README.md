@@ -1,1 +1,1 @@
-# Advance-Traffic-Control-System-using-Linear-Regression
+# Adaptive-Traffic-Control-System-using-Linear-Regression
